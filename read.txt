@@ -1,0 +1,6 @@
+Let x = 6;
+Let y = 1;
+Let z = 5;
+y = 3 + x - z; 
+Let l = 5;
+Print [ y ]; 
